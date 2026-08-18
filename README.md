@@ -151,8 +151,8 @@ python jobs/scripts/generate_jobs.py --config jobs/configs/best_args.yaml \
 You can cite our work like this:
 ```bibtex
 @article{belitsky2025kv,
-  title={KV Cache Steering for Inducing Reasoning in Small Language Models},
-  author={Belitsky, Max and Kopiczko, Dawid J and Dorkenwald, Michael and Mirza, M Jehanzeb and Snoek, Cees GM and Asano, Yuki M},
+  title={Kv Cache Steering for Controlling Frozen LLMs},
+  author={Belitsky, Max and Kopiczko, Dawid J and Dorkenwald, Michael and Mirza, M Jehanzeb and Glass, James R and Snoek, Cees GM and Asano, Yuki M},
   journal={arXiv preprint arXiv:2507.08799},
   year={2025}
 }
