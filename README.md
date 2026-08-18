@@ -2,7 +2,7 @@
   <p align="center">
     <a href=""><img src="figures/main_figure.svg" alt="Main figure" width="90%"></a>
   </p>
-  <h2>KV Cache Steering for Inducing Reasoning in Small Language Models</h2>
+  <h2>KV Cache Steering for Controlling Frozen LLMs</h2>
   <b>Authors:</b> Max Belitsky, Dawid Kopiczko, Michael Dorkenwald, Jehanzeb Mirza, Cees Snoek, Yuki Asano
   
 </div>
